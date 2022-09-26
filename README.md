@@ -100,4 +100,4 @@ pada pernyataan kedua bernilai benar maka kode yang berada pada pernyataan kedua
 
 ## Referensi 
 
-- [Python Percabangan]('https://www.petanikode.com/python-percabangan/')
+- [Python Percabangan](https://www.petanikode.com/python-percabangan/)
